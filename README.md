@@ -4,7 +4,7 @@
 Lab # | Link 
 --- | ---
 1 | [Lab 1a](./week-01/lab_01a.js) <br> [Lab 1b](./week-01/lab_01b.js)
-2 |
+2 | [Lab 2](./week-02)
 3 |
 4 |
 5 |
