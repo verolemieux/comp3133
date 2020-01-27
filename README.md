@@ -1,12 +1,12 @@
 # GBC comp3133 - Full Stack Development II 
 ### Veronyque Lemieux, 101106553
 
-Lab # | Link 
+Week # | Link 
 --- | ---
-1 | [Lab 1a](./week-01/lab_01a.js) <br> [Lab 1b](./week-01/lab_01b.js)
+1 | [Lab 1](./week-01)
 2 | [Lab 2](./week-02)
-3 |
-4 |
+3 | [Lab 3](./week-03)
+4 | [Lab 4](./week-04)
 5 |
 6 |
 7 |
