@@ -7,7 +7,7 @@ Week # | Link
 2 | [Lab 2](./week-02)
 3 | [Lab 3](./week-03)
 4 | [Lab 4](./week-04)
-5 |
+5 | [Lab 5](./week-05)
 6 |
 7 |
 8 |
