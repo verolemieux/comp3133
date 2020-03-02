@@ -8,10 +8,10 @@ Week # | Link
 3 | [Lab 3](./week-03)
 4 | [Lab 4](./week-04)
 5 | [Lab 5](./week-05)
-6 |
-7 |
-8 |
-9 |
+6 | [Lab Test](./week-06)
+7 | *Midterm*
+8 | *Intercession Week*
+9 | [Lab 9](./week-09)
 10 |
 11 | 
 12 | 
