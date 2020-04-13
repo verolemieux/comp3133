@@ -21,4 +21,4 @@ Week # | Link
 12 | [Lab 12](./week-12)
 13 | [Lab 13](./week-13)
 14 | [Lab 14](./week-14)
-15 | *Final Exam*
+15 | [Lab 15](./week-15)
